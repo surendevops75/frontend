@@ -22,7 +22,7 @@ Uses the lightweight Alpine-based Nginx image.
 
 ## Remove Default Configurations
 
-```dockerfile
+```
 RUN rm /etc/nginx/nginx.conf /etc/nginx/conf.d/default.conf
 ```
 
