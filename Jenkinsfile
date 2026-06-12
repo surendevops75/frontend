@@ -1,6 +1,5 @@
 # Jenkinsfile
 
-```groovy
 // --------------------------------------------------
 // Load Jenkins Shared Library
 // --------------------------------------------------
@@ -36,6 +35,3 @@ else{
 
     echo "Please proceed with PROD process"
 }
-```
-
----
